@@ -2,7 +2,7 @@
 
 Meu nome é Leonardo Fuzeto, 27 anos, moro em Campinas/SP e sou Desenvolvedor desde 2012.
 Sou casado 👫 e temos uma pinscher 🐾 que chama Paçoca.
-Curto séries 🎥, podcasts 🎧 e nas horas vagas me aventuro cuidando de uma horta 🌱
+Curto séries 🎥, podcasts 🎧 e nas horas vagas me aventuro cuidando de uma horta 🌱 e cozinhando :fried_egg:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-fuzeto-b4837b33/)](https://www.linkedin.com/in/leonardo-fuzeto-b4837b33/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/leofuzeto)](https://instagram.com/leofuzeto)
