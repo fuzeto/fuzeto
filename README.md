@@ -1,6 +1,6 @@
 ### Olá 😃
 
-Meu nome é Leonardo Fuzeto, 27 anos, moro em Campinas/SP e sou Desenvolvedor desde 2012.
+Meu nome é Leonardo Fuzeto, 29 anos, moro em Campinas/SP e sou Desenvolvedor desde 2012. Atualmente, Product Owner do maior banco da américa latina.
 Sou casado 👫 e temos uma pinscher 🐾 que chama Paçoca.
 Curto séries 🎥, podcasts 🎧 e nas horas vagas me aventuro cuidando de uma horta 🌱 e cozinhando :fried_egg:
 
